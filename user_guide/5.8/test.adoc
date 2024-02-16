@@ -1,0 +1,4 @@
+:page-title: Test
+:page-permalink: 1a73c8
+
+Test content for version 5.8.
