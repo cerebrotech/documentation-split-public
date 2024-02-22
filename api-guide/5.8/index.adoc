@@ -1,4 +1,4 @@
 :page-title: User guide
 :page-permalink: 1a73c8
 
-User guide index for version 5.8.
+API guide index for version 5.8.
