@@ -1,4 +1,8 @@
-:page-title: User guide
+:page-title: API Guide
 :page-permalink: 1a73c8
 
+# API Guide
+
 API guide index for version 5.8.
+
+Morbi consequat sed lectus et varius. Suspendisse vel lacus velit. Sed porta dictum interdum. Aenean eu feugiat odio, consequat iaculis mi. Suspendisse aliquam metus leo, cursus rutrum massa tristique et. Proin finibus, ante sed pulvinar faucibus, est nisl suscipit elit, eget rhoncus ex lectus sit amet velit. Pellentesque vel ante nec est bibendum venenatis. Curabitur id efficitur sapien, blandit sagittis enim. Sed eu tellus orci. Phasellus scelerisque, lectus nec rhoncus lobortis, purus mi blandit nunc, sed facilisis massa nunc sed sem. Vivamus turpis metus, aliquet vel enim vitae, blandit malesuada enim. Etiam eget risus a massa sagittis accumsan. 

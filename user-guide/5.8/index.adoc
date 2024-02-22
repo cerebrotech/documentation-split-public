@@ -1,4 +1,8 @@
-:page-title: User guide
+:page-title: User Guide
 :page-permalink: 1a73c8
 
+# User Guide
+
 User guide index for version 5.8.
+
+Sed tincidunt pharetra erat sed blandit. Nulla facilisi. Aenean condimentum diam et nisl tempus sodales. Quisque commodo ipsum non sem fringilla, sit amet tristique nibh fringilla. Maecenas sit amet justo sem. Nunc vel ultrices ex. Aliquam blandit est sit amet lectus lacinia, auctor imperdiet eros dapibus. Cras neque ligula, hendrerit eget convallis in, cursus a sem. Maecenas at ipsum sit amet nisl egestas ultrices. Proin rutrum a orci sed dapibus. 

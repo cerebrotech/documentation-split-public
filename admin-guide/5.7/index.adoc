@@ -1,4 +1,8 @@
-:page-title: User guide
+:page-title: Admin Guide
 :page-permalink: 1a73c8
 
+# Admin Guide
+
 Admin guide index for version 5.7.
+
+Etiam at commodo magna. Sed eget eros in odio egestas eleifend. Nunc lorem mauris, lacinia quis aliquam ac, suscipit at ante. Phasellus faucibus felis sed dolor tincidunt, vel pellentesque augue blandit. Praesent et lacus at enim placerat egestas. Maecenas euismod porta lorem id consectetur. Nullam fermentum ante a ligula sodales volutpat. Morbi sit amet eros vel sapien finibus efficitur vel vel massa. Sed eu elit nec augue porta auctor id eu dui. Donec quis cursus risus. Proin id neque eleifend, mattis eros ac, aliquet neque. Integer volutpat orci quam, quis rutrum erat tempor ac. Donec feugiat, purus ut ullamcorper dignissim, leo erat ultrices tortor, vitae ultricies nisl ligula vitae nisi. 

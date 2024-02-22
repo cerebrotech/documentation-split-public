@@ -1,4 +1,8 @@
-:page-title: User guide
+:page-title: Admin Guide
 :page-permalink: 1a73c8
 
+# Admin Guide
+
 Admin guide index for version 5.8.
+
+Nulla vitae lectus id orci placerat aliquam sed in neque. Sed vehicula ornare ligula. Sed lacinia nulla velit, vel mollis nisi rutrum id. Nulla vulputate nulla neque, vitae tincidunt sem suscipit nec. Integer sed scelerisque augue. Morbi semper luctus diam et laoreet. Phasellus condimentum massa in elit varius, a gravida tortor tempus. Aenean et convallis tortor. Nulla pharetra tellus vel quam auctor auctor. Proin iaculis vestibulum luctus. Donec tincidunt felis id quam aliquet, sit amet pulvinar orci maximus. Nulla interdum, velit ac facilisis consequat, magna tortor mattis tellus, placerat sodales sem justo dictum justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
