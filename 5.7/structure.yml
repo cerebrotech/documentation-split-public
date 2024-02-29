@@ -1,0 +1,28 @@
+- type: category
+  slug: user-guide
+  content:
+    - type: page
+      slug: .
+    - type: section
+      slug: technology
+      content:
+      - type: page
+        slug: .
+      - type: page
+        slug: test
+    - type: page
+      slug: test
+- type: category
+  slug: admin-guide
+  content:
+    - type: page
+      slug: .
+    - type: page
+      slug: test
+- type: category
+  slug: api-guide
+  content:
+    - type: page
+      slug: .
+    - type: page
+      slug: test
