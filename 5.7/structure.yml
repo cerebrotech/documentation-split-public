@@ -1,25 +1,17 @@
 user-guide:
   content:
-    - type: page
-      slug: .
+    - slug: .
     - type: section
       slug: technology
       content:
-      - type: page
-        slug: .
-      - type: page
-        slug: test
-    - type: page
-      slug: test
+      - slug: .
+      - slug: test
+    - slug: test
 admin-guide:
   content:
-    - type: page
-      slug: .
-    - type: page
-      slug: test
+    - slug: .
+    - slug: test
 api-guide:
   content:
-    - type: page
-      slug: .
-    - type: page
-      slug: test
+    - slug: .
+    - slug: test
