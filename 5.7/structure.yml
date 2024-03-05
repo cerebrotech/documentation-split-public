@@ -1,5 +1,4 @@
-- type: category
-  slug: user-guide
+user-guide:
   content:
     - type: page
       slug: .
@@ -12,15 +11,13 @@
         slug: test
     - type: page
       slug: test
-- type: category
-  slug: admin-guide
+admin-guide:
   content:
     - type: page
       slug: .
     - type: page
       slug: test
-- type: category
-  slug: api-guide
+api-guide:
   content:
     - type: page
       slug: .
