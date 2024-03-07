@@ -1,17 +1,18 @@
 user-guide:
   content:
-    - slug: .
-    - type: section
-      slug: technology
-      content:
-      - slug: .
-      - slug: test
-    - slug: test
+    - title: Introduction
+      slug: .
+    - title: Page
+      slug: test
 admin-guide:
   content:
-    - slug: .
-    - slug: test
+    - title: Introduction
+      slug: .
+    - title: Users
+      slug: test
 api-guide:
   content:
-    - slug: .
-    - slug: test
+    - title: Introduction
+      slug: .
+    - title: Data
+      slug: test
