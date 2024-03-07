@@ -5,7 +5,7 @@
 
 User guide index for version 5.9.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus turpis, sodales aliquam lorem a, vulputate egestas urna. Phasellus luctus nibh et posuere lobortis. Etiam non sagittis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam rhoncus enim ac felis interdum fermentum. Nam nec lobortis quam. Duis eget sodales dolor, vel mollis felis. Nam consequat nisl lacus. Aenean dapibus ex eu orci euismod, vitae rhoncus leo imperdiet. Donec varius rutrum leo, vitae volutpat nunc mattis eget. Donec quis posuere mauris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus turpis, sodales aliquam lorem a, vulputate egestas urna. Phasellus luctus nibh et posuere lobortis. Etiam non sagittis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam rhoncus enim ac felis interdum fermentum. Nam nec lobortis quam. Duis eget sodales dolor, vel mollis felis. Nam consequat nisl lacus. Aenean dapibus ex eu orci euismod, vitae rhoncus leo imperdiet. Donec varius rutrum leo, vitae volutpat nunc mattis eget.
 
 https://www.google.com[This] is a link to Google.
 
