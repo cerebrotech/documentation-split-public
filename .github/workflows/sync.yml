@@ -1,0 +1,24 @@
+name: Mirror Public Repo to Private Repo
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC. Adjust the cron schedule as necessary.
+    - cron: '*/5 0 * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout private repo
+        uses: actions/checkout@v2
+        # with:
+        #   token: ${{ secrets.PUBLIC_PAT }}
+        #   path: 'private-repo'
+
+      - name: Sync public repository changes
+        run: |
+          git remote add public https://github.com/cerebrotech/documentation-split-public
+          git fetch public
+          git merge public/main --allow-unrelated-histories -m "Merge public repository changes"
+          git push origin main
+        working-directory: ./private-repo
